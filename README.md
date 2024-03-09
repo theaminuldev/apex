@@ -68,8 +68,8 @@ To set up the Apex Personal Portfolio Theme:
 1. Clone the repository to your local machine.
 
 ```
-	git clone https://github.com/your-username/conskip-theme
-	cd conskip-theme
+	git clone https://github.com/your-username/apex.git
+	cd apex
 ```
 2. Customize the content and design according to your preferences.
 
